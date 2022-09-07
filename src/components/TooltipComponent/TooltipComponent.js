@@ -20,7 +20,7 @@ const TooltipComponent = (props) => {
   return (
     <div
       className="Tooltip-Wrapper"
-      // When to show the tooltip example
+      // When to show the tooltip example testing
       onMouseEnter={showTip}
       onMouseLeave={hideTip}
     >
